@@ -8,4 +8,7 @@ Answer 1
 
 - 미니 게임 구현
 - 인벤토리
-- 대호 시스템
+<p align = "center">
+<img src = "https://github.com/CodingVirus/PayOff_Unity_Project/assets/93506475/deeca715-add7-4c23-b0a4-74c0586c1440">
+</p>
+- 대화 시스템
