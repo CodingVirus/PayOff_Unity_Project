@@ -15,5 +15,9 @@ Answer 1
   <p align = "center">
   <img src = "https://github.com/CodingVirus/PayOff_Unity_Project/assets/93506475/7af0ef9c-a2a1-48fa-bf5a-42fef7448932">
   </p>
+  <p align = "center">
+  <img src = "https://github.com/CodingVirus/PayOff_Unity_Project/assets/93506475/e9354f39-8b41-4fdb-b0d0-e3a64f37f8bd">
+  </p>
+  
 
 
